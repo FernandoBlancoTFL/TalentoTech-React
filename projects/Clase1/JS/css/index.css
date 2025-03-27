@@ -1,0 +1,30 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    background-color: black;
+    min-height: 100vh;
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+}
+
+#bt-message {
+    padding: 15px 10px;
+    border: none;
+    border-radius: 12px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 17px;
+    background-color: green;
+    color: black;
+    cursor: pointer;
+}
+
+#bt-message:hover {
+    background-color: rgb(3, 151, 3);
+}

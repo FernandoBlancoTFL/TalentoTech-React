@@ -1,3 +1,7 @@
 document.addEventListener('DOMContentLoaded', () => {
-  const test = "this is a eslint test"
+  const messageButton = document.getElementById('bt-message')
+
+  messageButton.addEventListener('click', () => {
+    alert('Hola mundo! 😎')
+  })
 })
