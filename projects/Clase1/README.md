@@ -8,4 +8,4 @@ Primeros Pasos:
 
 ✅ Añade interactividad al botón usando JavaScript para mostrar un mensaje al hacer clic.
 
-checConfigura un proyecto React con Vite e implementa un componente funcional que muestre un saludo personalizado.
+✅ Configura un proyecto React con Vite e implementa un componente funcional que muestre un saludo personalizado.
