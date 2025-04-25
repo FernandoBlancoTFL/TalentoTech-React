@@ -1,0 +1,35 @@
+section {
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 1px solid white;
+    padding-bottom: 30px;
+    margin-bottom: 10px;
+}
+
+section div {
+    display: flex;
+    flex-flow: column nowrap;
+    padding: 20px;
+    border-left: 1px solid white;
+    border-right: 1px solid white;
+}
+
+section div h2 {
+    margin: 5px 0;
+}
+
+section div button {
+    align-self: center;
+    margin: 20px 0;
+    padding: 10px 8px;
+    cursor: pointer;
+    background-color: green;
+    border: none;
+    border-radius: 15px;
+}
+
+section div button:hover{
+    background-color: rgb(1, 156, 1);
+}
